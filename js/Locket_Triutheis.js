@@ -6,7 +6,7 @@ var ua = $request.headers["User-Agent"] || $request.headers["user-agent"],
 
 obj.Attention = "Chúc mừng bạn! Locket Gold vĩnh viễn by triutheis!";
 
-var FAR_FUTURE = "2026-10-22T2:10:14Z";
+var FAR_FUTURE = "2096-10-22T2:10:14Z";
 var PAST = "2026-10-21T10:10:14Z";
 
 function makeSub(productId, priceAmount, priceCurrency) {
