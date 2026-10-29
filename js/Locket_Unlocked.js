@@ -97,10 +97,10 @@ if (ua.includes("Locket")) {
     // ============================================================
     Object.assign(obj.entries, {
         camera: JSON.stringify({
-            gold_max_duration: 60.0,
-            goldMaxDuration: 60.0,
-            max_duration: 60.0,
-            maxDuration: 60.0,
+            gold_max_duration: 25.0,
+            goldMaxDuration: 25.0,
+            max_duration: 25.0,
+            maxDuration: 25.0,
             ultra_wide: true,
             ultraWide: true,
             volume_button: true,
